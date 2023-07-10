@@ -5,10 +5,9 @@ This repository contains a list of project ideas for beginners who are intereste
 Feel free to explore the list and choose a project that interests you. The projects range from simple to intermediate levels, allowing you to gradually enhance your skills and expand your knowledge.
 
 ## Project Ideas
-
-1. To-Do List App: Simple app for managing tasks and to-do lists.
-2. Weather App: Display weather information based on location or user input.
-3. Recipe Finder: Search and display recipes based on user input or preferences.
+1. [To-Do List App](#1-todo-list-app)
+2. [Weather App](#2-weather-app)
+3. [Recipe Finder](#3-recipe-finder)
 4. Movie Recommendation App: Recommend movies based on genre, ratings, or user preferences.
 5. Fitness Tracker: Track fitness activities, set goals, and monitor progress.
 6. Budget Tracker: Manage expenses, track spending, and set budget limits.
@@ -36,6 +35,19 @@ Feel free to explore the list and choose a project that interests you. The proje
 28. Event Ticketing App
 29. Travel Diary
 30. Flash Sale App
+
+## Project Descriptions
+
+### 1. todo list app
+Simple app for managing tasks and to-do lists
+
+### 2. weather app
+Display weather information based on location or user input
+
+### 3. Recipe Finder
+Search and display recipes based on user input or preferences
+
+
 
 ## Getting Started
 
